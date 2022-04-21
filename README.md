@@ -1,0 +1,2 @@
+# kadysoft
+Software Developer
